@@ -16,3 +16,9 @@ PROGRAMS USED:
 
 HTML, CSS, JavaScript, Python,PHP, SQL, and Bootstrap
 
+INSTALL DEPENDENCIES:
+None
+
+RUN APP
+
+Download file and double click on folder to open locaclly

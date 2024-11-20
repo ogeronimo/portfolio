@@ -2742,7 +2742,44 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 /*----theme color-------*/
-			.tiles article.style1 > .image:before {
+			.tiles article.style11 > .image:before {
+				background-image: url("icons/logo_exoIris.svg");
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-image:hide;	
+				background-color: rgb(186, 155, 201);
+			}
+			.tiles article.style10 > .image:before {
+				background-image: url("icons/logo_exoSite.svg");
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-image:hide;	
+				background-color: rgb(18, 248, 228);
+			}
+			.tiles article.style9 > .image:before {
+				background-image: url("icons/logo_exoStore.svg");
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-image:hide;	
+				background-color: rgb(30, 203, 245);
+			}
+			.tiles article.style8 > .image:before {
+				background-image: url("icons/logo_doit4jesus.svg");
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-image:hide;	
+				background-color: rgb(149, 95, 39);
+			}
+			.tiles article.style7 > .image:before {
+				background-image: url("icons/logo_hotsauce.svg");
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-image:hide;	
+				background-color: rgb(126, 3, 3);
+			}
+
+
+			.tiles article.style6 > .image:before {
 				background-image: url("icons/logo_ap.svg");
 				background-repeat: no-repeat;
 				background-size: 100% 100%;
@@ -2750,7 +2787,7 @@ input, select, textarea {
 				background-color: rgb(237, 28, 36);
 			}
 
-			.tiles article.style2 > .image:before {
+			.tiles article.style5 > .image:before {
 				background-image: url("icons/logo_finance.svg");
 				background-repeat: no-repeat;
 				background-size: 100% 100%;
@@ -2759,15 +2796,15 @@ input, select, textarea {
 
 			}
 
-			.tiles article.style3 > .image:before {
+			.tiles article.style4 > .image:before {
 				background-image: url("icons/logo_arch.svg");
 				background-repeat: no-repeat;
 				background-size: 100% 100%;
 				background-image:hide;	
-				background-color: rgb(0, 174, 239);
+				background-color: rgb(2, 128, 173);
 			}
 
-			.tiles article.style4 > .image:before {
+			.tiles article.style3 > .image:before {
 				background-image: url("icons/logo_cs.svg");
 				background-repeat: no-repeat;
 				background-size: 100% 100%;
@@ -2775,7 +2812,7 @@ input, select, textarea {
 				background-color: rgb(236, 0, 140);
 			}
 
-			.tiles article.style5 > .image:before {
+			.tiles article.style2 > .image:before {
 				background-image: url("icons/logo_music.svg");
 				background-repeat: no-repeat;
 				background-size: 100% 100%;
@@ -2783,7 +2820,7 @@ input, select, textarea {
 				background-color: rgb(255, 242, 0);
 			}
 
-			.tiles article.style6 > .image:before {
+			.tiles article.style1 > .image:before {
 				background-image: url("icons/logo_camp.svg");
 				background-repeat: no-repeat;
 				background-size: 100% 100%;
